@@ -1,0 +1,21 @@
+Title: Evaluation of the Antimicrobial Activity of Novel Beta-Lactam Antibiotics Against Multi-Drug Resistant Bacterial Strains
+
+Abstract:
+The global rise of multi-drug resistant (MDR) bacterial pathogens presents a critical challenge in clinical therapeutics. In this study, we evaluate the antimicrobial efficacy of two novel beta-lactam antibiotics, BLX-101 and BLX-102, against a panel of MDR Gram-positive and Gram-negative bacterial strains. Minimum inhibitory concentrations (MICs) were determined using broth microdilution assays, and time-kill kinetics were assessed over a 24-hour period. Both compounds demonstrated potent bactericidal activity, with MIC values ranging from 0.125 to 2 µg/mL across 12 clinical isolates, including methicillin-resistant Staphylococcus aureus (MRSA) and extended-spectrum beta-lactamase (ESBL)-producing Escherichia coli. Time-kill analysis revealed a ≥3-log reduction in viable CFU/mL within 6 hours of exposure. These results suggest BLX-101 and BLX-102 hold promise as therapeutic agents for treating infections caused by MDR pathogens.
+
+Introduction:
+Antibiotic resistance among bacterial pathogens has escalated to unprecedented levels over the past decade, necessitating the discovery of new antimicrobial agents. Beta-lactam antibiotics remain the most widely prescribed class due to their broad spectrum of activity and well-established safety profile. However, the emergence of beta-lactamase enzymes capable of hydrolyzing traditional penicillins and cephalosporins has undermined their clinical utility. BLX-101 and BLX-102 are structurally engineered to evade common beta-lactamases, incorporating novel side-chain modifications that enhance binding affinity to penicillin-binding proteins. This study aims to characterize the in vitro activity of these compounds against MDR clinical isolates and to elucidate their potential mechanisms of action and resistance.
+
+Materials and Methods:
+Clinical isolates of MRSA (n=5), ESBL-producing E. coli (n=4), and carbapenem-resistant Klebsiella pneumoniae (n=3) were obtained from the hospital microbiology repository. Broth microdilution assays were performed in Mueller-Hinton broth following CLSI guidelines to determine MICs. For time-kill kinetics, bacterial suspensions were exposed to 4× MIC of each compound and sampled at 0, 1, 3, 6, and 24 hours; viable counts were enumerated on agar plates. Beta-lactamase stability was assessed by incubating each antibiotic with purified TEM-1 and SHV-1 beta-lactamases, followed by high-performance liquid chromatography (HPLC) to measure residual drug concentration. All experiments were conducted in triplicate.
+
+Results:
+BLX-101 and BLX-102 exhibited MIC ranges of 0.125–1 µg/mL against MRSA, 0.25–2 µg/mL against ESBL-producing E. coli, and 0.5–2 µg/mL against carbapenem-resistant K. pneumoniae. Time-kill curves demonstrated a rapid bactericidal effect, with BLX-101 achieving a 3-log reduction in CFU/mL within 4 hours for MRSA and 6 hours for Gram-negative strains. BLX-102 displayed similar kinetics, albeit with a slight delay in Gram-negative killing. HPLC analysis indicated >90% stability of both compounds after 2-hour incubation with TEM-1 and SHV-1 enzymes, compared to <10% stability for ceftazidime controls.
+
+Discussion:
+The potent in vitro activity of BLX-101 and BLX-102 against a diverse panel of MDR pathogens underscores their potential as next-generation beta-lactam antibiotics. Their enhanced stability against prevalent beta-lactamases likely contributes to sustained antimicrobial action, making them particularly valuable for treating resistant infections. The marginal difference in kinetic profiles between the two compounds may reflect variations in cell penetration or target affinity. Further in vivo studies and toxicity assessments are warranted to explore pharmacokinetics, safety, and therapeutic dosing.
+
+Conclusion:
+BLX-101 and BLX-102 demonstrate robust antimicrobial efficacy against critical MDR bacterial strains, with favorable beta-lactamase stability and rapid bactericidal kinetics. These findings lay the groundwork for advanced preclinical development and eventual clinical evaluation.
+
+Keywords: beta-lactam, multi-drug resistant, MRSA, ESBL, time-kill kinetics

@@ -1,0 +1,32 @@
+# File: data/texts/case_study_sleep_deprivation.txt
+
+Case Study: Effects of Sleep Deprivation on Cognitive Performance
+
+Introduction:
+Sleep is a fundamental biological process essential for optimal brain function and overall health. Over the past decades, researchers have documented the adverse consequences of chronic sleep loss on everything from memory consolidation to decision-making speed.
+
+Background:
+In a controlled laboratory setting, participants were kept awake for 24, 36, and 48 hours in separate sessions, with cognitive testing administered at 6-hour intervals. Tests included:
+- Psychomotor Vigilance Task (PVT)
+- Working Memory Span (WMS)
+- Complex Reaction Time (CRT)
+
+Results:
+1. Psychomotor Vigilance Task  
+   - After 24 h awake: mean reaction time ↑ by 12%  
+   - After 36 h awake: mean reaction time ↑ by 25%  
+   - After 48 h awake: mean reaction time ↑ by 38%
+
+2. Working Memory Span  
+   - 24 h: no significant change  
+   - 36 h: 8% drop in correct recalls  
+   - 48 h: 15% drop in correct recalls  
+
+3. Complex Reaction Time  
+   - Progressive slowing observed at each interval, correlating with subjective sleepiness ratings.
+
+Discussion:
+These findings illustrate a clear dose–response relationship between sleep deprivation duration and cognitive deficits. Notably, reaction-time tasks showed impairment earlier and more severely than working memory tasks.
+
+Conclusion:
+Chronic sleep restriction—even moderate reductions below 7 hours per night—may accumulate to produce deficits analogous to acute total sleep deprivation. Mitigation strategies (e.g., strategic napping, light therapy) warrant further study.
